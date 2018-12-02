@@ -1,3 +1,4 @@
+#Created by TomaszBrauntsch
 #CurrencyConverter
 #USD2Currencies
 def USD2Currencies():
